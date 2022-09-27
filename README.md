@@ -46,7 +46,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Kahfi-XD/Maxxy-V5
+$ git clone https://github.com/danigaming579/Maxxy-V5
 $ cd Maxxy-V5
 $ npm i 
 ```
